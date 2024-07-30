@@ -1,0 +1,17 @@
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\bin\Debug\Retrostore.exe.config
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\bin\Debug\Retrostore.exe
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\bin\Debug\Retrostore.pdb
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\bin\Debug\Retrostore.xml
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.vbproj.AssemblyReference.cache
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.AlisTablosuFormu.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.DepoTablosuFormu.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.Form1.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.Resources.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.SatislarTablosuFormu.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.ToptanciTablosuFormu.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.UrunlerTablosuFormu.resources
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.vbproj.GenerateResource.cache
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.vbproj.CoreCompileInputs.cache
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.exe
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.xml
+C:\Users\Semanur Gökırmak\Desktop\RETROSTORE\Retrostore\Retrostore\obj\Debug\Retrostore.pdb
